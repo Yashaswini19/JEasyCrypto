@@ -1,0 +1,6 @@
+<properties>
+  <sonar.projectKey>Yashaswini19_JEasyCrypto</sonar.projectKey>
+  <sonar.organization>yashaswini19</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>3b2ede8175d86397eb2e1f038e3dec629f8d0a68</sonar.login>
+</properties>
